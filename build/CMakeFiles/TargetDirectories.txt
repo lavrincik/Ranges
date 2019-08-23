@@ -1,0 +1,3 @@
+/home/marek/school/pv264/pv264_hw2/build/CMakeFiles/rebuild_cache.dir
+/home/marek/school/pv264/pv264_hw2/build/CMakeFiles/range_test.dir
+/home/marek/school/pv264/pv264_hw2/build/CMakeFiles/edit_cache.dir

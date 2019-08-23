@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++17 -Wall -Wextra -pedantic -Werror -Wold-style-cast -g  -rdynamic CMakeFiles/range_test.dir/main.cpp.o CMakeFiles/range_test.dir/student_test.cpp.o  -o range_test 
